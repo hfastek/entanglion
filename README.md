@@ -2,9 +2,9 @@
 
 > Gra stworzona przez IBM Research
 
-**2 OSOBY | WIEK 14+ | 45 MINUT**
+**2 OSOBY | WIEK 14+ | ~45 MINUT**
 
-[Entanglion](http://ibm.biz/entanglion) czeka na Twoje umiejętności nawigacji kosmicznej i planowania strategicznego, aby odkryć nową galaktykę i zrekonstruować starożytny komputer kwantowy. [Entanglion](http://ibm.biz/entanglion) to kooperacyjna gra planszowa przeznaczona dla dwóch graczy. Współpracując, uczcie się podstaw obliczeń kwantowych, poprzez nawigację pomiędzy trzema galaktykami kwantowego wszechświata, unikanie wykrycia przez mechanizmy obronne pozostawione przez starożytnych oraz odbudowywanie komputera kwantowego.
+[Entanglion](http://ibm.biz/entanglion) czeka na Twoje umiejętności nawigacji kosmicznej i planowania strategicznego, aby odkryć nową galaktykę i zrekonstruować starożytny komputer kwantowy. [Entanglion](http://ibm.biz/entanglion) to kooperacyjna gra planszowa przeznaczona dla dwóch graczy. Współpracując z drugim graczem, ucz się podstaw obliczeń kwantowych, poprzez nawigację pomiędzy trzema galaktykami kwantowego wszechświata, unikanie wykrycia przez mechanizmy obronne pozostawione przez starożytnych oraz odbudowywanie komputera kwantowego.
 
 Gotowy na wyzwanie?
 
