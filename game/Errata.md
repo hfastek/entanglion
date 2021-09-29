@@ -3,7 +3,7 @@ Na tej stronie znajdują się wyjaśnienia mechaniki/zasad gry, których opisy -
 
 > Masz pytanie? Proszę [utwórz zgłoszenie](../../../issues) i daj nam znać!
 
-## W jakiej kolejności należy liczyć planety podczas zdarzenia Spooky Action (Upiorne działanie na odległość)?
+## W jakiej kolejności należy liczyć planety podczas zdarzenia Spooky Action?
 Licz w ten sam sposób, jak na karcie Heisenberg: zacznij od OMEGA ZERO i licz zgodnie z ruchem wskazówek zegara. Rzut z wynikiem "1" odpowiada OMEGA ONE (jedna planeta dalej), a rzut z wynikiem "8" odpowiada OMEGA ZERO.
 
 ## Co się stanie, gdy PROBE (sonda) zostanie wylosowana podczas zdarzenia The Mechanic?
