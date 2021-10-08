@@ -1,4 +1,6 @@
-# The Mysterious Fate of the Quantics
+# Tajemniczy los Kwantyków
+
+[TODO: translation]
 
 Thousands of years ago, a people known as the Quantics dominated the known universe.
 

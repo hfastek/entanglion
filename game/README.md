@@ -44,45 +44,44 @@ Dalsze omówienie tego, jak Entanglion odnosi się do rzeczywistych obliczeń kw
 1. **Rozłóż plansze gry oraz statków kosmicznych**. Umieść planszę do gry w zasięgu ręki każdego gracza i rozdaj plansze statków kosmicznych: każdemu graczowi po jednej.
 2. **Umieść komponenty kwantowe**. Potasuj komponenty kwantowe i umieść je odkryte na każdej planecie w galaktyce Entanglion, po jednym na planetę.
 3. **Potasuj stos kart silnika [engine stack]**. Odłóż na bok kartę PROBE [sonda] i potasuj pozostałe karty silnika. Umieść zakrytą kartę PROBE na stosie kart silnika, a na niej również zakryte, pozostałe karty silnika.
-4. **Prepare the quantum event deck**. Set aside the Quantum Shuffle card and shuffle the remaining event cards. Deal out three event cards face down on the quantum event deck. Next, place the Quantum Shuffle card face down on the deck. Finally, place the remaining event cards face down on the deck.
-5. **Set the initial detection rate**. Place the detection rate token on the detection rate scale. For an easy game, start with a detection rate of 1 or 2. For a more challenging game, start with a detection rate of 3. If the detection rate reaches the final level (X) before the quantum computer has been built, the game ends in a loss.
-6. **Determine the first player**. Determine the first player by having each player 
-roll the Entanglion die (8-sided). The player with the higher number goes first. Re-roll in case of a tie.
-7. **Determine the initial ship locations**. Starting with the first player, roll the Centarious die to place each spaceship (0 goes to <span style="color: purple"> ZERO </span>, 1 goes to <span style="color: purple"> ONE </span>). This process is akin to initializing a quantum system.
-8. **Draw engine cards**. Starting with the first player, each player draws three engine cards into their hand. Engine cards may be kept face up.
+4. **Przygotuj talię kart zdarzeń kwantowych [quantum event deck]**. Odłóż na bok kartę Quantum Shuffle i przetasuj pozostałe karty zdarzeń. Połóż trzy z nich (zakryte) na talii zdarzeń kwantowych a następnie umieść tam zakrytą kartę Quantum Shuffle. Na koniec połóż pozostałe karty zdarzeń zakryte na talii.
+5. **Ustaw początkowy współczynnik wykrywania [detection rate]**. Umieść żeton współczynnika wykrywania na skali. W przypadku łatwej gry zacznij od współczynnika wykrywalności 1 lub 2. W przypadku bardziej wymagającej gry zacznij od współczynnika wykrywalności równego 3. Jeśli współczynnik wykrywalności osiągnie poziom końcowy (X) przed zbudowaniem komputera kwantowego, gra kończy się przegraną.
+6. **Rozstrzygnij który gracz zacznie grę**. Gracz który wyrzuci więcej oczek na kości Entanglion (ośmiostronna) zaczyna grę. W przypadku remisu powtórzcie rzuty.
+7. **Rozstrzygnij początkowe lokalizacje statków**. Każdy gracz (zaczynając od pierwszego) rzuca kością Centarious (sześciościenna), aby ustalić, na której planecie w galaktyce Centarious umieścić swój statek kosmiczny (0 oznacza <span style="color: purple"> ZERO </span>, 1 oznacza <span style="color: purple"> ONE </span>). Ten proces jest podobny do inicjalizowania systemu kwantowego.
+8. **Dobierz karty silnika [engine cards]**. Zaczynając od pierwszego gracza, każdy gracz dobiera na rękę trzy karty silnika. Karty silników można trzymać odkryte.
 
 <img src="../images/setup.png" width="100%">
 
-# Materials
+# Materiały
 
-**Boards**
-- 1 game board
-- 2 spaceship boards
+**Plansze**
+- 1 główna plansza gry
+- 2 plansze statków kosmicznych
 <img src="../images/board.png" width="40%">
 
-**Cards**
-- 24 engine cards (8 H, 7 CNOT, 5 X, 3 SWAP, 1 PROBE)
+**Karty**
+- 24 karty silnika (8 H, 7 CNOT, 5 X, 3 SWAP, 1 PROBE)
 <img src="../images/engine_cards.png" width="40%">
 
-- 9 event cards
+- 9 kart zdarzeń
 <img src="../images/events.png" width="100%">
 
-**Pieces**
-- 1 detection rate token
-- 8 quantum components
+**Inne części**
+- 1 żeton (TODO: jeszcze raz obejrzeć) współczynnika wykrywania
+- 8 komponentów kwantowych
 <img src="../images/quantum_components.png" width="100%">
 
-- 1 Centarious die (purple binary d6)
-- 1 Entanglion die (yellow d8)
-- 2 spaceship tokens
+- 1 kość Centarious (purpurowa binarna d6)
+- 1 kość Entanglion (żółta d8)
+- 2 figurki statków kosmicznych
 <img src="../images/spaceship.png" width="20%">
 
-**Rule Book**
+**Podręcznik zasad gry**
 
-# Engine cards
+# Karty silnika
 <img src="../images/engine_cards.png" width="60%">
 
-Engine cards are used to navigate your ships around the quantum universe. Navigation paths on the game board are labeled with the card(s) needed to traverse them (e.g. “X/CNOT” means either X or CNOT can be used to traverse that path). In some cases, only one spaceship may traverse a path. Engine cards may be played with no effect when no transition is shown on the board.
+Karty silnika służą do nawigacji statków po kwantowym wszechświecie. Ścieżki nawigacyjne na planszy są oznaczone kartami potrzebnymi do ich przemierzenia (np. "X/CNOT" oznacza, że do przemierzenia tej ścieżki można użyć X lub CNOT). W niektórych przypadkach tylko jeden statek kosmiczny może przemierzyć ścieżkę [Są dwa rodzaje linii składających się na ścieżkę nawigacyjną: ciągła niebieska oraz przerywana czerwona. Istnieją połączenia z linią tylko jednego typu, co oznacza, że przejście pomiędzy tymi planetami może być osiągnięte tylko przez kartę silnika działającą na statek kosmiczny w kolorze połączenia. W Entanglion, oba statki kosmiczne poruszają się razem, ale aby przesunąć oba statki kosmiczne wzdłuż ścieżki składającej się tylko z czerwonej linii (np. pomiędzy <span style="color: #facd4d"> OMEGA ZERO </span> a <span style="color: #facd4d"> OMEGA ONE </span>), karta silnika musi być zagrana w turze gracza posiadającego czerwony statek kosmiczny; przyp. tłum.]. Karty silników można zagrywać bez żadnego efektu, jeśli na planszy nie istnieje z aktualnej pozycji ścieżka używająca danej karty silnika [np. będąc wewnątrz galaktyki Entanglion, SWAP poza <span style="color: #facd4d"> OMEGA ZERO </span> i <span style="color: #facd4d"> OMEGA THREE </span> nie daje żadnego efektu, ale różni się od akcji wymiany karty silnika tym, że dokłada nową kartę do panelu sterowania silnika (a nie na stos kart odrzuconych) i przyspiesza wystąpienie zdarzenia kwantowego; przyp. tłum.].
 
 **X**. X is used to navigate between <span style="color: purple"> ZERO </span> and <span style="color: purple"> ONE </span> and within the Entanglion galaxy.
 

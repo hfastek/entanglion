@@ -20,7 +20,7 @@ Jeśli chcesz odbudować tę niesamowitą technologię, musisz nawigować swoimi
 Chcesz dowiedzieć się więcej? Przeczytaj pełną fabułę Entanglion, [Tajemniczy los Kwantyków](game/Backstory.md).
 
 ## Jak zdobyć Entanglion
-Entanglion jest projektem open source, więc możesz stworzyć własną kopię gry, pobierając i drukując dostępne materiały. Możesz też kupić pudełkową wersję Entanglion w sklepie The Game Crafter [przyp. tłum. The Game Crafter dostarcza tylko na terenie USA, więc warto poszukać np. na eBay].
+Entanglion jest projektem open source, więc możesz stworzyć własną kopię gry, pobierając i drukując dostępne materiały. Możesz też kupić pudełkową wersję Entanglion w sklepie The Game Crafter [The Game Crafter dostarcza tylko na terenie USA, więc warto poszukać np. na eBay; przyp. tłum.].
 
 🚀 **[Pobierz przewodnik drukowania i montażu Entanglion](assets)**
 
