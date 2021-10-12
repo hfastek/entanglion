@@ -6,7 +6,7 @@ Na tej stronie znajdują się wyjaśnienia mechaniki/zasad gry, których opisy -
 ## W jakiej kolejności należy liczyć planety podczas zdarzenia Spooky Action?
 Licz w ten sam sposób, jak na karcie Heisenberg: zacznij od OMEGA ZERO i licz zgodnie z ruchem wskazówek zegara. Rzut z wynikiem "1" odpowiada OMEGA ONE (jedna planeta dalej), a rzut z wynikiem "8" odpowiada OMEGA ZERO.
 
-## Co się stanie, gdy PROBE (sonda) zostanie wylosowana podczas zdarzenia The Mechanic?
+## Co się stanie, gdy PROBE [sonda] zostanie wylosowana podczas zdarzenia The Mechanic?
 PROBE zaczyna działać natychmiast. Wykonaj test obrony, aby sprawdzić, czy twoje statki uniknęły sondy Entanglion: pamiętaj, że musisz wyrzucić 4 lub więcej z uwzględnieniem efektów wynikających z posiadanych przez Ciebie komponentów kwantowych. Następnie, po zakończeniu rozgrywania PROBE, dobierz nową kartę silnika i kontynuuj wykonywanie czynności z karty The Mechanic.
 
 ## Kiedy nasze statki są na PSI PLUS, PSI MINUS, PHI PLUS lub PHI MINUS, i jest wykonywane CNOT, gdzie trafiają statki?

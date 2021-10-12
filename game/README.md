@@ -83,22 +83,22 @@ Dalsze omówienie tego, jak Entanglion odnosi się do rzeczywistych obliczeń kw
 
 Karty silnika służą do nawigacji statków po kwantowym wszechświecie. Ścieżki nawigacyjne na planszy są oznaczone kartami potrzebnymi do ich przemierzenia (np. "X/CNOT" oznacza, że do przemierzenia tej ścieżki można użyć X lub CNOT). W niektórych przypadkach tylko jeden statek kosmiczny może przemierzyć ścieżkę [Są dwa rodzaje linii składających się na ścieżkę nawigacyjną: ciągła niebieska oraz przerywana czerwona. Istnieją połączenia z linią tylko jednego typu, co oznacza, że przejście pomiędzy tymi planetami może być osiągnięte tylko przez kartę silnika działającą na statek kosmiczny w kolorze połączenia. W Entanglion, oba statki kosmiczne poruszają się razem, ale aby przesunąć oba statki kosmiczne wzdłuż ścieżki składającej się tylko z czerwonej linii (np. pomiędzy <span style="color: #facd4d"> OMEGA ZERO </span> a <span style="color: #facd4d"> OMEGA ONE </span>), karta silnika musi być zagrana w turze gracza posiadającego czerwony statek kosmiczny; przyp. tłum.]. Karty silników można zagrywać bez żadnego efektu, jeśli na planszy nie istnieje z aktualnej pozycji ścieżka używająca danej karty silnika [np. będąc wewnątrz galaktyki Entanglion, SWAP poza <span style="color: #facd4d"> OMEGA ZERO </span> i <span style="color: #facd4d"> OMEGA THREE </span> nie daje żadnego efektu, ale różni się od akcji wymiany karty silnika tym, że dokłada nową kartę do panelu sterowania silnika (a nie na stos kart odrzuconych) i przyspiesza wystąpienie zdarzenia kwantowego; przyp. tłum.].
 
-**X**. X is used to navigate between <span style="color: purple"> ZERO </span> and <span style="color: purple"> ONE </span> and within the Entanglion galaxy.
+**X**. X służy do nawigacji pomiędzy <span style="color: purple"> ZERO </span> i <span style="color: purple"> ONE </span> oraz wewnątrz galaktyki Entanglion.
 
-**H**. H is used to travel between Centarious and Superious and within the Entanglion galaxy.
+**H**. H służy do podróżowania pomiędzy galatykami Centarious i Superious oraz wewnątrz galaktyki Entanglion.
 
-**SWAP**. Outside of Entanglion, SWAP exchanges the positions of the two spaceships. Inside Entanglion, SWAP only transitions the spaceships between <span style="color: #facd4d"> OMEGA ZERO </span> and <span style="color: #facd4d"> OMEGA THREE </span>.
+**SWAP**. Poza galaktyką Entanglion, SWAP zamienia pozycje dwóch statków kosmicznych. Wewnątrz galaktyki Entanglion, SWAP służy do podróżowania tylko pomiędzy <span style="color: #facd4d"> OMEGA ZERO </span> i <span style="color: #facd4d"> OMEGA THREE </span>.
 
-**CNOT**. CNOT is used to enter the Entanglion galaxy and navigate within it. It also flips the position of your spaceship in Centarious, but only when the other spaceship is orbiting <span style="color: purple"> ONE </span>.
+**CNOT**. CNOT służy do wejścia [oraz wyjścia w niektórych przypadkach; przyp. tłum.] do galaktyki Entanglion i poruszania się wewnątrz niej. Odwraca również pozycję twojego statku kosmicznego w Centarious, ale tylko wtedy, gdy drugi statek kosmiczny krąży po orbicie <span style="color: purple"> ONE </span>.
 
-**PROBE**. Whenever PROBE is drawn, your ships have been discovered by an ancient defensive probe! Roll the Entanglion die. If the outcome is less than 4 (after accounting for quantum component effects), increase the detection rate by one. Otherwise, PROBE has no effect. Discard PROBE and draw a replacement engine card.
+**PROBE**. Za każdym razem, gdy zostanie wyciągnięta karta PROBE [sonda], Twoje statki zostają odkryte przez starożytną sondę obronną! Rzuć kością Entanglion. Jeśli wynik jest mniejszy niż 4 (po uwzględnieniu efektów komponentów kwantowych), zwiększ współczynnik wykrywania o jeden. W przeciwnym razie PROBE nie ma żadnego efektu. Odrzuć kartę PROBE i wyciągnij nową kartę silnika.
 
-> Orient engine cards in the engine control spaces such that the lines on the card line up with the line of your spaceship.
+> Ustaw karty silnika na panelu sterowania silnika tak, aby linie na karcie pokrywały się z linią twojego statku kosmicznego.
 
-> When the engine stack becomes depleted, immediately reshuffle the engine cards in the discard pile to replenish the engine stack. Include PROBE in the shuffle, do not place it at the bottom of the stack.
+> Kiedy stos kart silnika się wyczerpie, przetasuj karty silnika ze stosu kart odrzuconych, aby utworzyć nowy stos kart silnika. Dołącz kartę PROBE do tasowania, nie umieszczaj jej na dole stosu.
 
-# Turn overview
-Perform _one_ of the following actions on your turn.
+# Tura
+W swojej turze, wykonaj _jedną_ z poniższych akcji.
 
 1. **Navigate**. Play one engine card in engine control to navigate around the galaxy, and draw a replacement. You may only play engine cards for your own ship.
 2. **Exchange**. Discard one engine card from your hand and draw a replacement..
