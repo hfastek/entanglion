@@ -45,7 +45,7 @@ Dalsze omówienie tego, jak Entanglion odnosi się do rzeczywistych obliczeń kw
 2. **Umieść komponenty kwantowe**. Potasuj komponenty kwantowe i umieść je odkryte na każdej planecie w galaktyce Entanglion, po jednym na planetę.
 3. **Potasuj stos kart silnika [engine stack]**. Odłóż na bok kartę PROBE [sonda] i potasuj pozostałe karty silnika. Umieść zakrytą kartę PROBE na stosie kart silnika, a na niej również zakryte, pozostałe karty silnika.
 4. **Przygotuj talię kart zdarzeń kwantowych [quantum event deck]**. Odłóż na bok kartę Quantum Shuffle i przetasuj pozostałe karty zdarzeń. Połóż trzy z nich (zakryte) na talii zdarzeń kwantowych a następnie umieść tam zakrytą kartę Quantum Shuffle. Na koniec połóż pozostałe karty zdarzeń zakryte na talii.
-5. **Ustaw początkowy współczynnik wykrywania [detection rate]**. Umieść żeton współczynnika wykrywania na skali. W przypadku łatwej gry zacznij od współczynnika wykrywalności 1 lub 2. W przypadku bardziej wymagającej gry zacznij od współczynnika wykrywalności równego 3. Jeśli współczynnik wykrywalności osiągnie poziom końcowy (X) przed zbudowaniem komputera kwantowego, gra kończy się przegraną.
+5. **Ustaw początkowy współczynnik detekcji [detection rate]**. Umieść żeton współczynnika detekcji na skali. W przypadku łatwej gry zacznij od współczynnika detekcji 1 lub 2. W przypadku bardziej wymagającej gry zacznij od współczynnika detekcji równego 3. Jeśli współczynnik detekcji osiągnie poziom końcowy (X) przed zbudowaniem komputera kwantowego, gra kończy się przegraną.
 6. **Rozstrzygnij który gracz zacznie grę**. Gracz który wyrzuci więcej oczek na kości Entanglion (ośmiostronna) zaczyna grę. W przypadku remisu powtórzcie rzuty.
 7. **Rozstrzygnij początkowe lokalizacje statków**. Każdy gracz (zaczynając od pierwszego) rzuca kością Centarious (sześciościenna), aby ustalić, na której planecie w galaktyce Centarious umieścić swój statek kosmiczny (0 oznacza <span style="color: purple"> ZERO </span>, 1 oznacza <span style="color: purple"> ONE </span>). Ten proces jest podobny do inicjalizowania systemu kwantowego.
 8. **Dobierz karty silnika [engine cards]**. Zaczynając od pierwszego gracza, każdy gracz dobiera na rękę trzy karty silnika. Karty silników można trzymać odkryte.
@@ -67,7 +67,7 @@ Dalsze omówienie tego, jak Entanglion odnosi się do rzeczywistych obliczeń kw
 <img src="../images/events.png" width="100%">
 
 **Inne części**
-- 1 żeton (TODO: jeszcze raz obejrzeć) współczynnika wykrywania
+- 1 żeton (TODO: jeszcze raz obejrzeć) współczynnika detekcji
 - 8 komponentów kwantowych
 <img src="../images/quantum_components.png" width="100%">
 
@@ -91,21 +91,21 @@ Karty silnika służą do nawigacji statków po kwantowym wszechświecie. Ście�
 
 **CNOT**. CNOT służy do wejścia [oraz wyjścia w niektórych przypadkach; przyp. tłum.] do galaktyki Entanglion i poruszania się wewnątrz niej. Odwraca również pozycję twojego statku kosmicznego w Centarious, ale tylko wtedy, gdy drugi statek kosmiczny krąży po orbicie <span style="color: purple"> ONE </span>.
 
-**PROBE**. Za każdym razem, gdy zostanie wyciągnięta karta PROBE [sonda], Twoje statki zostają odkryte przez starożytną sondę obronną! Rzuć kością Entanglion. Jeśli wynik jest mniejszy niż 4 (po uwzględnieniu efektów komponentów kwantowych), zwiększ współczynnik wykrywania o jeden. W przeciwnym razie PROBE nie ma żadnego efektu. Odrzuć kartę PROBE i wyciągnij nową kartę silnika.
+**PROBE**. Za każdym razem, gdy zostanie wyciągnięta karta PROBE [sonda], Twoje statki zostają odkryte przez starożytną sondę obronną! Rzuć kością Entanglion. Jeśli wynik jest mniejszy niż 4 (po uwzględnieniu efektów komponentów kwantowych), zwiększ współczynnik detekcji o jeden. W przeciwnym razie PROBE nie ma żadnego efektu. Odrzuć kartę PROBE i wyciągnij nową kartę silnika.
 
 > Ustaw karty silnika na panelu sterowania silnika tak, aby linie na karcie pokrywały się z linią twojego statku kosmicznego.
 
-> Kiedy stos kart silnika się wyczerpie, przetasuj karty silnika ze stosu kart odrzuconych, aby utworzyć nowy stos kart silnika. Dołącz kartę PROBE do tasowania, nie umieszczaj jej na dole stosu.
+> Kiedy stos kart silnika się wyczerpie, przetasuj karty silnika ze stosu kart odrzuconych, aby utworzyć nowy stos kart silnika. Dołącz kartę PROBE do tasowania (nie umieszczaj jej na dole stosu).
 
 # Tura
 W swojej turze, wykonaj _jedną_ z poniższych akcji.
 
-1. **Navigate**. Play one engine card in engine control to navigate around the galaxy, and draw a replacement. You may only play engine cards for your own ship.
-2. **Exchange**. Discard one engine card from your hand and draw a replacement..
-3. **Retrieve**. Roll the Entanglion die to attempt to retrieve a quantum component if one is present.
-4. **Event**. Play an event card from your hand (if you possess one).
+1. **Nawigacja**. Aby poruszać się po galaktyce, zagraj kartę silnika kładąc ją w panelu sterowania silnika, i dobierz nową kartę silnika. Możesz zagrywać karty silnika tylko na swoim własnym statku.
+2. **Wymiana**. Odrzuć kartę silnika i dobierz nową.
+3. **Zdobycie**. Rzuć kostką Entanglion, aby spróbować zdobyć komponent kwantowy (jeśli jest obecny na planecie).
+4. **Zdarzenie**. Zagraj kartę zdarzenia (jeśli jakąś posiadasz).
 
-> Players may not pass their turns, they must perform one of the actions above.
+> Gracze nie mogą spasować w swoich turach - zawsze muszą wykonać jedną z powyższych akcji.
 
 # Entering & exiting Entanglion
 In order to enter Entanglion, one spaceship needs to be in Centarious and the other spaceship needs to be in Superious. Only the spaceship in Centarious can use CNOT to enter Entanglion. The paths into Entanglion are represented with gray lines on the game board.
