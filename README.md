@@ -15,7 +15,7 @@ Gratulacje! Twój kapitan przeszedł na emeryturę i zostawił Cię na czele swo
 
 Od lat masz obsesję na punkcie plotek o starożytnej technologii obliczeń kwantowych, która może zrewolucjonizować galaktyczny transport ładunków. Gdyby plotki były prawdziwe, pozwoliłoby to Twoim statkom obliczyć ścieżki hiperprzestrzenne w zaledwie kilka sekund! Jest tylko jeden problem: starożytni zdemontowali swój komputer kwantowy z obawy, że jest zbyt potężny, a komponenty pozostawili rozrzucone po planetach w silnie strzeżonej galaktyce Entanglion.
 
-Jeśli chcesz odbudować tę niesamowitą technologię, musisz nawigować swoimi statkami przez galaktykę Entanglion i wymanewrować obronę pozostawioną przez starożytnych. Dobrą wiadomością jest to, że twój stary kapitan zostawił ci wystarczająco dużo pieniędzy, aby wyposażyć twoje statki w silniki kwantowe, których będziesz potrzebować, aby wejść do Entanglion. Zła wiadomość jest taka, że bez komputera kwantowego, który nimi kieruje, te silniki mogą być trochę… nieprzewidywalne.
+Jeśli chcesz odbudować tę niesamowitą technologię, musisz nawigować swoimi statkami przez galaktykę Entanglion i wymanewrować obronę pozostawioną przez starożytnych. Dobrą wiadomością jest to, że twój stary kapitan zostawił ci wystarczająco dużo pieniędzy, aby wyposażyć Twoje statki w silniki kwantowe, których będziesz potrzebować, aby wejść do Entanglion. Zła wiadomość jest taka, że bez komputera kwantowego, który nimi kieruje, te silniki mogą być trochę… nieprzewidywalne.
 
 Chcesz dowiedzieć się więcej? Przeczytaj pełną fabułę Entanglion, [Tajemniczy los Kwantyków](game/Backstory.md).
 
