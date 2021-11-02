@@ -18,7 +18,7 @@ Gratulacje! Twój kapitan przeszedł na emeryturę i zostawił Cię na czele swo
 
 Od lat masz obsesję na punkcie plotek o starożytnej technologii obliczeń kwantowych, która może zrewolucjonizować galaktyczny transport ładunków. Gdyby plotki były prawdziwe, pozwoliłoby to Twoim statkom obliczyć ścieżki hiperprzestrzenne w zaledwie kilka sekund! Jest tylko jeden problem: starożytni zdemontowali swój komputer kwantowy z obawy, że jest zbyt potężny, a komponenty pozostawili rozrzucone po planetach w silnie strzeżonej galaktyce Entanglion.
 
-Jeśli chcesz odbudować tę niesamowitą technologię, musisz nawigować swoimi statkami przez galaktykę Entanglion i wymanewrować obronę pozostawioną przez starożytnych. Dobrą wiadomością jest to, że twój stary kapitan zostawił ci wystarczająco dużo pieniędzy, aby wyposażyć twoje statki w silniki kwantowe, których będziesz potrzebować, aby wejść do Entanglion. Zła wiadomość jest taka, że bez komputera kwantowego, który nimi kieruje, te silniki mogą być trochę… nieprzewidywalne.
+Jeśli chcesz odbudować tę niesamowitą technologię, musisz nawigować swoimi statkami przez galaktykę Entanglion i wymanewrować obronę pozostawioną przez starożytnych. Dobrą wiadomością jest to, że twój stary kapitan zostawił ci wystarczająco dużo pieniędzy, aby wyposażyć Twoje statki w silniki kwantowe, których będziesz potrzebować, aby wejść do Entanglion. Zła wiadomość jest taka, że bez komputera kwantowego, który nimi kieruje, te silniki mogą być trochę… nieprzewidywalne.
 
 Gotowy na wyzwanie?
 
@@ -73,7 +73,7 @@ Dalsze omówienie tego, jak Entanglion odnosi się do rzeczywistych obliczeń kw
 
 - 1 kość Centarious (purpurowa binarna d6)
 - 1 kość Entanglion (żółta d8)
-- 2 figurki statków kosmicznych
+- 2 figurki statków kosmicznych [czerwony Rubicon oraz niebieski Mercurial; przyp. tłum.]
 <img src="../images/spaceship.png" width="20%">
 
 **Podręcznik zasad gry**
@@ -89,11 +89,11 @@ Karty silnika służą do nawigacji statków po kwantowym wszechświecie. Ście�
 
 **SWAP**. Poza galaktyką Entanglion, SWAP zamienia pozycje dwóch statków kosmicznych. Wewnątrz galaktyki Entanglion, SWAP służy do podróżowania tylko pomiędzy <span style="color: #facd4d"> OMEGA ZERO </span> i <span style="color: #facd4d"> OMEGA THREE </span>.
 
-**CNOT**. CNOT służy do wejścia [oraz wyjścia w niektórych przypadkach; przyp. tłum.] do galaktyki Entanglion i poruszania się wewnątrz niej. Odwraca również pozycję twojego statku kosmicznego w Centarious, ale tylko wtedy, gdy drugi statek kosmiczny krąży po orbicie <span style="color: purple"> ONE </span>.
+**CNOT**. CNOT służy do wejścia [oraz wyjścia w niektórych przypadkach; przyp. tłum.] do galaktyki Entanglion i poruszania się wewnątrz niej. Odwraca również pozycję Twojego statku kosmicznego w Centarious, ale tylko wtedy, gdy drugi statek kosmiczny krąży po orbicie <span style="color: purple"> ONE </span>.
 
 **PROBE**. Za każdym razem, gdy zostanie wyciągnięta karta PROBE [sonda], Twoje statki zostają odkryte przez starożytną sondę obronną! Rzuć kością Entanglion. Jeśli wynik jest mniejszy niż 4 (po uwzględnieniu efektów komponentów kwantowych), zwiększ współczynnik detekcji o jeden. W przeciwnym razie PROBE nie ma żadnego efektu. Odrzuć kartę PROBE i wyciągnij nową kartę silnika.
 
-> Ustaw karty silnika na panelu sterowania silnika tak, aby linie na karcie pokrywały się z linią twojego statku kosmicznego.
+> Ustaw karty silnika na panelu sterowania silnika tak, aby linie na karcie pokrywały się z linią Twojego statku kosmicznego.
 
 > Kiedy stos kart silnika się wyczerpie, przetasuj karty silnika ze stosu kart odrzuconych, aby utworzyć nowy stos kart silnika. Dołącz kartę PROBE do tasowania (nie umieszczaj jej na dole stosu).
 
@@ -107,59 +107,64 @@ W swojej turze, wykonaj _jedną_ z poniższych akcji.
 
 > Gracze nie mogą spasować w swoich turach - zawsze muszą wykonać jedną z powyższych akcji.
 
-# Entering & exiting Entanglion
+# Wkraczanie do, i opuszczanie Entanglion
 In order to enter Entanglion, one spaceship needs to be in Centarious and the other spaceship needs to be in Superious. Only the spaceship in Centarious can use CNOT to enter Entanglion. The paths into Entanglion are represented with gray lines on the game board.
 
-Lead spaceship (playing the CNOT) | Other spaceship | Destination
+Aby dostać się do galaktyki Entanglion, jeden statek kosmiczny musi być w galaktyce Centarious, a drugi w galaktyce Superious. Tylko statek kosmiczny który jest w Centarious może użyć CNOT, aby przenieść oba statki do Entanglion. Ścieżki prowadzące do Entanglion są przedstawione na planszy za pomocą szarych linii.
+
+Prowadzić statek kosmiczny (gra w CNOT) | Inny statek kosmiczny | Miejsce docelowe
+
+Statek zagrywający CNOT | Drugi statek | Cel
 --- | --- | ---
 <span style="color: purple"> ZERO </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PHI PLUS </span>
 <span style="color: purple"> ZERO </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PHI MINUS </span>
 <span style="color: purple"> ONE </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PSI PLUS </span>
 <span style="color: purple"> ONE </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PSI MINUS </span>
 
-It is also possible to exit Entanglion using CNOT when both ships are orbiting <span style="color: #facd4d"> PHI PLUS </span>, <span style="color: #facd4d"> PHI MINUS </span>, <span style="color: #facd4d"> PSI PLUS </span>, or <span style="color: #facd4d"> PSI MINUS </span>. The ship that plays the CNOT returns to Centarious and the other ship returns to Superious, on the planets indicated with the gray lines.
+Możliwe jest również opuszczenie Entanglion za pomocą CNOT, gdy oba statki orbitują wokół <span style="color: #facd4d"> PHI PLUS </span>, <span style="color: #facd4d"> PHI MINUS </span>, <span style="color: #facd4d"> PSI PLUS </span>, lub <span style="color: #facd4d"> PSI MINUS </span>. Statek, który zagrywa CNOT, wraca do Centarious, a drugi statek wraca do Superious, na planety wyznaczone szarymi liniami.
 
-Example: Rubicon is orbiting <span style="color: purple"> ZERO </span> and Mercurial is orbiting <span style="color: green"> PLUS </span>. When Rubicon plays a CNOT, both ships move to <span style="color: #facd4d"> PHI PLUS </span>.
+Przykład: Rubicon orbituje wokół <span style="color: purple"> ZERO </span> a Mercurial orbituje wokół <span style="color: green"> PLUS </span>. Kiedy Rubicon zagra CNOT, oba statki przenoszą się do <span style="color: #facd4d"> PHI PLUS </span>.
 
-> Outside of Entanglion, ships move independently. Inside Entanglion, both ships always move together, irregardless of which player plays an engine card.
+> Poza Entanglion statki poruszają się niezależnie. Wewnątrz Entanglion oba statki zawsze poruszają się razem, niezależnie od tego, który gracz zagrywa kartę silnika.
 
 <img src="../images/entering_entanglion.png" width="40%">
 
-On <span style="color: #facd4d"> PHI PLUS </span>, when Rubicon plays CNOT, Rubicon moves to <span style="color: purple"> ZERO </span> and Mercurial moves to <span style="color: green"> PLUS </span>.
+W <span style="color: #facd4d"> PHI PLUS </span>, gry Rubicon zagrywa CNOT, przemieszcza się do <span style="color: purple"> ZERO </span>, a Mercurial do <span style= "color: green"> PLUS </span>.
 
 <img src="../images/entering_entanglion2.png" width="40%">
 
-# Detection rate
-The detection rate determines the difficulty of successfully evading planetary defenses. The detection rate token is used to keep track of the current detection rate. When a player’s spaceship has been detected by orbital defenses, or a player’s away team has been detected by ground defenses, the detection rate is increased, making it easier for each planet’s defenses 
-to detect the player in the future. The game ends when the detection rate reaches the final level (designated with an X).
+# Współczynnik detekcji
+Współczynnik detekcji określa trudność skutecznego ominięcia obrony planetarnej. Żeton współczynnika detekcji służy do śledzenia aktualnego współczynnika detekcji. Kiedy statek kosmiczny gracza zostanie wykryty przez obronę orbitalną lub ekipa zwiadowcza gracza zostanie wykryta przez obronę naziemną, współczynnik detekcji zostaje zwiększony, co ułatwia obronie każdej planety wykrycie gracza w przyszłości. Gdy współczynnik detekcji osiągnie ostateczny poziom (oznaczony jako X), gra kończy się przegraną.
 
-> The detection rate increases by one whenever you are detected by a planet's orbital or ground defenses.
+> Współczynnik detekcji zwiększa się o jeden za każdym razem, gdy zostaniesz wykryty przez obronę orbitalną lub naziemną planety.
 
 <img src="../images/detection_rate.png" width="40%">
 
-# Orbital defenses
-Planets in Entanglion are protected by orbital defenses that scan for ships looking to plunder the quantum components hidden there. It is possible to evade these defenses using your quantum engines. If you are detected, however, your navigation system will automatically take evasive maneuvers and jump to a random planet in the Centarious system. This jump triggers a quantum event.
+# Obrony orbitalne
+Planety w Entanglion są chronione przez orbitalne systemy obronne, które wyszukują statki, które chcą splądrować ukryte tam komponenty kwantowe. Możliwe jest uniknięcie tych mechanizmów obronnych za pomocą silników kwantowych. Jeśli jednak zostaniesz wykryty, Twój system nawigacyjny automatycznie wykona manewry unikowe i przeskoczy na losową planetę w systemie Centarious. Ten skok wyzwala zdarzenie kwantowe.
 
-**When you navigate to any planet in Entanglion:** Roll the Entanglion die. If the outcome is greater than the current detection rate, the orbital defenses have been evaded. If not, perform the following actions:
+**Kiedy nawigujesz na dowolną planetę w Entanglion:** Rzuć kością Entanglion. Jeśli wynik jest większy niż obecny współczynnik detekcji, obrona orbitalna została ominięta. Jeśli nie, wykonaj następujące czynności:
 
-1. Roll the Centarious die and move both ships to the planet indicated. Both ships jump together.
-2. Increase the detection rate by one.
-3. Draw a quantum event card and perform the action indicated.
+1. Rzuć kością Centarious i przesuń oba statki na wskazaną planetę. Oba statki skaczą razem.
+2. Zwiększ współczynnik detekcji o jeden.
+3. Dobierz kartę zdarzenia kwantowego i wykonaj opisaną na niej akcję.
 
-> Physical Qubits lets you decide which planets in Centarious to place your spaceships.
+> Physical Qubits pozwalają decydować, na których planetach Centarious umieścisz swoje statki kosmiczne.
 
-> Quantum Programming lets you bypass orbital defenses when a planet doesn't have a quantum component.
+> Quantum Programming pozwala ominąć obronę orbitalną, gdy planeta nie ma komponentu kwantowego.
 
-> The Quantum Tunnel event card lets you bypass orbital defenses. If you play this card after entering the orbit of a planet in Entanglion, you do not need to roll the Entanglion die to determine if your ships were detected by orbital defenses.
+> Karta zdarzenia The Quantum Tunnel pozwala ominąć obronę orbitalną. Jeśli zagrasz tę kartę po wejściu na orbitę planety w galaktyce Entanglion, nie musisz rzucać kością Entanglion, aby ustalić, czy Twoje statki zostały wykryte przez obronę orbitalną.
 
-> When entering Entanglion via the Heisenberg card, you may ignore the orbital defenses.
+> Wkraczając do Entanglion przy użyciu karty zdarzenia Heisenberg, możesz zignorować obronę orbitalną.
 
-> If you play an engine card that does not transition your ships to a new planet in Entanglion, you do not need to re-check whether your ships have been detected.
+> Jeśli zagrasz kartę silnika, która nie przenosi Twoich statków na nową planetę w Entanglion, nie musisz ponownie sprawdzać, czy Twoje statki zostały wykryte.
 
-# Quantum components
+# Komponenty kwantowe
 There are eight components that players must obtain in order to build the quantum computer to win the game, shown on each of the spaceship boards. Each component also grants a permanent special ability or hindrance to your ship, so you must strategize with your teammate to obtain the components in an optimal order!
 
-> Quantum components are permanent upgrades to your ship and alter gameplay for the rest of the game.
+Istnieje osiem komponentów, które gracze muszą zdobyć, aby zbudować komputer kwantowy - co jest warunkiem wygrania gry. Są one pokazane na każdej z plansz statku kosmicznego. Każdy komponent zapewnia również statkowi do którego należy, trwałą specjalną zdolność lub ułomność, więc w ramach kooperacji, musicie opracować strategię, która pozwoli uzyskać komponenty w optymalnej kolejności!
+
+> Komponenty kwantowe wpływają na Twój statek na stałe, czyli zmieniają rozgrywkę do końca gry.
 
 <img src="../images/quantum_components.png" width="100%">
 
