@@ -6,5 +6,5 @@
 - **Quantum Gates [[bramki kwantowe](https://pl.wikipedia.org/wiki/Bramka_kwantowa)]**. Podczas akcji wymiany karty silnika, dobierz dwie nowe karty, wybierz jedną, a drugą odrzuć.
 - **Quantum Programming [[programowanie kwantowe](https://pl.wikipedia.org/wiki/Komputer_kwantowy)]**. Podczas nawigowania na planetę w galaktyce Entanglion, która nie posiada komponentu kwantowego, Twoje statki automatycznie omijają obronę orbitalną.
 - **Quantum Error Correction [[Korekcja błędu kwantowego](https://en.wikipedia.org/wiki/Quantum_error_correction)]**. Dodaj jeden do wyniku wyrzuconego na kości Entanglion.
-- **Control Infrastructure [Infrastruktura kontrolna]**. Promieniowanie mikrofalowe emitowane przez infrastrukturę sterującą ułatwia wykrycie Twojego statku. Odejmij jeden od wyniku wyrzuconego na kości Entanglion.
+- **Control Infrastructure [Infrastruktura sterująca]**. Promieniowanie mikrofalowe emitowane przez infrastrukturę sterującą ułatwia wykrycie Twojego statku. Odejmij jeden od wyniku wyrzuconego na kości Entanglion.
 - **Magnetic Shielding [[Ekranowanie magnetyczne](https://pl.wikipedia.org/wiki/Ekran_magnetyczny)]**. Za każdym razem, gdy rzucasz kością Entanglion, możesz raz rzucić ją ponownie. Zignoruj wynik pierwszego rzutu.

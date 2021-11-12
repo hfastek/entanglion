@@ -45,7 +45,7 @@ Dalsze omówienie tego, jak Entanglion odnosi się do rzeczywistych obliczeń kw
 2. **Umieść komponenty kwantowe**. Potasuj komponenty kwantowe i umieść je odkryte na każdej planecie w galaktyce Entanglion, po jednym na planetę.
 3. **Potasuj stos kart silnika [engine stack]**. Odłóż na bok kartę PROBE [sonda] i potasuj pozostałe karty silnika. Umieść zakrytą kartę PROBE na stosie kart silnika, a na niej również zakryte, pozostałe karty silnika.
 4. **Przygotuj talię kart zdarzeń kwantowych [quantum event deck]**. Odłóż na bok kartę Quantum Shuffle i przetasuj pozostałe karty zdarzeń. Połóż trzy z nich (zakryte) na talii zdarzeń kwantowych a następnie umieść tam zakrytą kartę Quantum Shuffle. Na koniec połóż pozostałe karty zdarzeń zakryte na talii.
-5. **Ustaw początkowy współczynnik detekcji [detection rate]**. Umieść żeton współczynnika detekcji na skali. W przypadku łatwej gry zacznij od współczynnika detekcji 1 lub 2. W przypadku bardziej wymagającej gry zacznij od współczynnika detekcji równego 3. Jeśli współczynnik detekcji osiągnie poziom końcowy (X) przed zbudowaniem komputera kwantowego, gra kończy się przegraną.
+5. **Ustaw początkowy wskaźnik detekcji [detection rate]**. Umieść żeton wskaźnika detekcji na skali. W przypadku łatwej gry zacznij od wskaźnika detekcji 1 lub 2. W przypadku bardziej wymagającej gry zacznij od wskaźnika detekcji równego 3. Jeśli wskaźnik detekcji osiągnie poziom końcowy (X) przed zbudowaniem komputera kwantowego, gra kończy się przegraną.
 6. **Rozstrzygnij który gracz zacznie grę**. Gracz który wyrzuci więcej oczek na kości Entanglion (ośmiostronna) zaczyna grę. W przypadku remisu powtórzcie rzuty.
 7. **Rozstrzygnij początkowe lokalizacje statków**. Każdy gracz (zaczynając od pierwszego) rzuca kością Centarious (sześciościenna), aby ustalić, na której planecie w galaktyce Centarious umieścić swój statek kosmiczny (0 oznacza <span style="color: purple"> ZERO </span>, 1 oznacza <span style="color: purple"> ONE </span>). Ten proces jest podobny do inicjalizowania systemu kwantowego.
 8. **Dobierz karty silnika [engine cards]**. Zaczynając od pierwszego gracza, każdy gracz dobiera na rękę trzy karty silnika. Karty silników można trzymać odkryte.
@@ -67,7 +67,7 @@ Dalsze omówienie tego, jak Entanglion odnosi się do rzeczywistych obliczeń kw
 <img src="../images/events.png" width="100%">
 
 **Inne części**
-- 1 żeton (TODO: jeszcze raz obejrzeć) współczynnika detekcji
+- 1 żeton (TODO: jeszcze raz obejrzeć) wskaźnika detekcji
 - 8 komponentów kwantowych
 <img src="../images/quantum_components.png" width="100%">
 
@@ -91,7 +91,7 @@ Karty silnika służą do nawigacji statków po kwantowym wszechświecie. Ście�
 
 **CNOT**. CNOT służy do wejścia [oraz wyjścia w niektórych przypadkach; przyp. tłum.] do galaktyki Entanglion i poruszania się wewnątrz niej. Odwraca również pozycję Twojego statku kosmicznego w Centarious, ale tylko wtedy, gdy drugi statek kosmiczny krąży po orbicie <span style="color: purple"> ONE </span>.
 
-**PROBE**. Za każdym razem, gdy zostanie wyciągnięta karta PROBE [sonda], Twoje statki zostają odkryte przez starożytną sondę obronną! Rzuć kością Entanglion. Jeśli wynik jest mniejszy niż 4 (po uwzględnieniu efektów komponentów kwantowych), zwiększ współczynnik detekcji o jeden. W przeciwnym razie PROBE nie ma żadnego efektu. Odrzuć kartę PROBE i wyciągnij nową kartę silnika.
+**PROBE**. Za każdym razem, gdy zostanie wyciągnięta karta PROBE [sonda], Twoje statki zostają odkryte przez starożytną sondę obronną! Rzuć kością Entanglion. Jeśli wynik jest mniejszy niż 4 (po uwzględnieniu efektów komponentów kwantowych), zwiększ wskaźnik detekcji o jeden. W przeciwnym razie PROBE nie ma żadnego efektu. Odrzuć kartę PROBE i wyciągnij nową kartę silnika.
 
 > Ustaw karty silnika na panelu sterowania silnika tak, aby linie na karcie pokrywały się z linią Twojego statku kosmicznego.
 
@@ -102,7 +102,7 @@ W swojej turze, wykonaj _jedną_ z poniższych akcji.
 
 1. **Nawigacja**. Aby poruszać się po galaktyce, zagraj kartę silnika kładąc ją w panelu sterowania silnika, i dobierz nową kartę silnika. Możesz zagrywać karty silnika tylko na swoim własnym statku.
 2. **Wymiana**. Odrzuć kartę silnika i dobierz nową.
-3. **Zdobycie**. Rzuć kostką Entanglion, aby spróbować zdobyć komponent kwantowy (jeśli jest obecny na planecie).
+3. **Próba zdobycia**. Rzuć kostką Entanglion, aby spróbować zdobyć komponent kwantowy (jeśli jest obecny na planecie).
 4. **Zdarzenie**. Zagraj kartę zdarzenia (jeśli jakąś posiadasz).
 
 > Gracze nie mogą spasować w swoich turach - zawsze muszą wykonać jedną z powyższych akcji.
@@ -133,20 +133,20 @@ W <span style="color: #facd4d"> PHI PLUS </span>, gry Rubicon zagrywa CNOT, prze
 
 <img src="../images/entering_entanglion2.png" width="40%">
 
-# Współczynnik detekcji
-Współczynnik detekcji określa trudność skutecznego ominięcia obrony planetarnej. Żeton współczynnika detekcji służy do śledzenia aktualnego współczynnika detekcji. Kiedy statek kosmiczny gracza zostanie wykryty przez obronę orbitalną lub ekipa zwiadowcza gracza zostanie wykryta przez obronę naziemną, współczynnik detekcji zostaje zwiększony, co ułatwia obronie każdej planety wykrycie gracza w przyszłości. Gdy współczynnik detekcji osiągnie ostateczny poziom (oznaczony jako X), gra kończy się przegraną.
+# Wskaźnik detekcji
+Wskaźnik detekcji określa trudność skutecznego ominięcia obrony planetarnej. Żeton wskaźnika detekcji służy do śledzenia aktualnego wskaźnika detekcji. Kiedy statek kosmiczny gracza zostanie wykryty przez obronę orbitalną lub ekipa zwiadowcza gracza zostanie wykryta przez obronę naziemną, wskaźnik detekcji zostaje zwiększony, co ułatwia obronie każdej planety wykrycie gracza w przyszłości. Gdy wskaźnik detekcji osiągnie ostateczny poziom (oznaczony jako X), gra kończy się przegraną.
 
-> Współczynnik detekcji zwiększa się o jeden za każdym razem, gdy zostaniesz wykryty przez obronę orbitalną lub naziemną planety.
+> Wskaźnik detekcji zwiększa się o jeden za każdym razem, gdy zostaniesz wykryty przez obronę orbitalną lub naziemną planety.
 
 <img src="../images/detection_rate.png" width="40%">
 
 # Obrony orbitalne
 Planety w Entanglion są chronione przez orbitalne systemy obronne, które wyszukują statki, które chcą splądrować ukryte tam komponenty kwantowe. Możliwe jest uniknięcie tych mechanizmów obronnych za pomocą silników kwantowych. Jeśli jednak zostaniesz wykryty, Twój system nawigacyjny automatycznie wykona manewry unikowe i przeskoczy na losową planetę w systemie Centarious. Ten skok wyzwala zdarzenie kwantowe.
 
-**Kiedy nawigujesz na dowolną planetę w Entanglion:** Rzuć kością Entanglion. Jeśli wynik jest większy niż obecny współczynnik detekcji, obrona orbitalna została ominięta. Jeśli nie, wykonaj następujące czynności:
+**Kiedy nawigujesz na dowolną planetę w Entanglion:** Rzuć kością Entanglion. Jeśli wynik jest większy niż obecny wskaźnik detekcji, obrona orbitalna została ominięta. Jeśli nie, wykonaj następujące czynności:
 
 1. Rzuć kością Centarious i przesuń oba statki na wskazaną planetę. Oba statki skaczą razem.
-2. Zwiększ współczynnik detekcji o jeden.
+2. Zwiększ wskaźnik detekcji o jeden.
 3. Dobierz kartę zdarzenia kwantowego i wykonaj opisaną na niej akcję.
 
 > Physical Qubits pozwalają decydować, na których planetach Centarious umieścisz swoje statki kosmiczne.
@@ -168,85 +168,88 @@ Istnieje osiem komponentów, które gracze muszą zdobyć, aby zbudować kompute
 
 <img src="../images/quantum_components.png" width="100%">
 
-When your ships are orbiting a planet with a quantum component, you may send an away team to the planet’s surface to retrieve it. Quantum components are guarded by automated ground defenses which, as with orbital defenses, must be evaded.
+Gdy Twoje statki są na orbicie planety z komponentem kwantowym, możesz wysłać ekipę zwiadowczą na powierzchnię planety, aby spróbować go pozyskać. Komponenty kwantowe są pilnowane zautomatyzowaną obroną naziemną, którą, tak jak w przypadku obrony orbitalnej, należy ominąć.
 
-**To perform a retrieval mission:** Roll the Entanglion die. If the outcome is greater than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by one.
+**Aby wykonać misję zdobycia:** Rzuć kością Entanglion. Jeśli wynik jest większy niż bieżący wskaźnik detekcji, zabierz komponent i umieść go na planszy swojego statku kosmicznej. W przeciwnym wypadku, ekipa zwiadowcza została wykryta przez obronę naziemną; zwiększ wskaźnik detekcji o jeden.
 
-> If your away team fails to retrieve a quantum component, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses
+> Jeśli ekipie zwiadowczej nie uda się odzyskać komponentu kwantowego, statki pozostają na orbicie bieżącej planety. Nie musisz wykonywać kolejnego testu obrony orbitalnej w następnej turze, chyba że statki przemieszczą się na inną planetę, która ma obronę orbitalną
 
-> The Quantum Tunnel event card lets you bypass ground defenses. If you play this card during your turn, your retrieval mission was successful. You do not need to roll the Entanglion die to determine if your away team was detected by ground defenses; add the quantum component to your ship
+> Karta zdarzenia Quantum Tunnel umożliwia obejście obrony naziemnej. Jeśli zagrasz tę kartę podczas swojej kolejki, Twoja misja kończy się sukcesem. Nie musisz rzucać kością Entanglion, aby ustalić, czy ekipa zwiadowcza została wykryta przez obronę naziemną; dodaj komponent kwantowy do swojego statku
 
-# Quantum events
-Quantum engines can be unpredictable at times! Once all six engine control slots have been filled, perform a quantum event at the end of your turn. In addition, perform a quantum event whenever you have been detected by orbital defenses.
+# Zdarzenia kwantowe
+Silniki kwantowe mogą być czasami nieprzewidywalne! Po zapełnieniu wszystkich sześciu pól panelu sterowania silnikiem wykonaj zdarzenie kwantowe na koniec swojej tury. Ponadto, wykonuj zdarzenie kwantowe za każdym razem, gdy zostaniesz wykryty przez obronę orbitalną.
 
-**To perform a quantum event:** Draw an event card and perform the instructions. Clear all engine cards from the game board and put them in engine discard pile.
+**Aby wykonać zdarzenie kwantowe:** Dobierz kartę zdarzenia i wykonaj instrukcje. Usuń wszystkie karty silnika z planszy i umieść je na stosie odrzuconych kart silnika.
 
-> When Quantum Shuffle is drawn, reshuffle the quantum event cards as per the instructions in game setup.
+> Kiedy zostanie wylosowana karta Quantum Shuffle, przetasuj karty zdarzeń kwantowych zgodnie z instrukcjami w przygotowaniu gry.
 
-> In the event that your ship was detected by orbital defenses on the same turn as having filled all six engine control slots, perform two quantum events.
+> W przypadku, gdy Twój statek został wykryty przez obronę orbitalną w tej samej turze, w której wypełnił wszystkie sześć miejsc panelu sterowania silnikiem, wykonaj dwa zdarzenia kwantowe.
 
 <img src="../images/events.png" width="100%">
 
-# Game end
-Players immediately win the game when they have collected all eight components of the quantum computer. Players immediately lose the game when the detection rate reaches the end (X).
+# Koniec gry
+Gracze natychmiast wygrywają grę, gdy uzbierają wszystkie osiem komponentów komputera kwantowego. Gracze natychmiast przegrywają grę, gdy wskaźnik detekcji osiągnie koniec (X).
 
-# Your first game
-Set up the game board as described in Setup. In this game, Mercurial (the blue player) will go first. Mercurial draws three cards: X, H, and H. Rubicon draws three cards: CNOT, SWAP, and X. Both ships start on <span style="color: purple"> ZERO </span>.
+# Twoja pierwsza gra
+Przygotuj planszę zgodnie z opisem w rozdziale Przygotowanie do gry. W tej grze Mercurial (niebieski gracz) będzie pierwszy. Mercurial ciągnie trzy karty: X, H i H. Rubicon ciągnie trzy karty: CNOT, SWAP i X. Oba statki zaczynają na planecie <span style="color: purple"> ZERO </span>.
 
 <img src="../images/first1.png" width="40%">
 
-1. Mercurial plays an H to navigate to <span style="color: green"> PLUS </span>. Mercurial draws X as a replacement card.
+1. Mercurial zagrywa H, aby przejść do <span style="color: green"> PLUS </span>. Mercurial dobiera X jako kartę zastępczą.
 
 <img src="../images/first2.png" width="40%">
 
-2. Rubicon plays CNOT to navigate both ships to <span style="color: #facd4d"> PHI PLUS </span>. Rubicon draws H as a replacement card. After arriving at a planet in Entanglion, Rubicon must roll the Entanglion die to evade the orbital defenses. Since the detection rate is 1, Rubicon needs to roll a 2 or higher. Rubicon rolls the Entanglion die and gets a 3, just enough to evade detection!
+2. Rubicon zagrywa CNOT, aby przenieść oba statki do <span style="color: #facd4d"> PHI PLUS </span>. Rubicon dobiera H jako kartę zastępczą. Po przybyciu na planetę w Entanglion, Rubicon musi rzucić kością Entanglion, aby uniknąć obrony orbitalnej. Ponieważ wskaźnik detekcji wynosi 1, Rubicon musi wyrzucić 2 lub więcej. Rubicon rzuca kostką Entanglion i otrzymuje 3, akurat tyle, by uniknąć wykrycia!
 
 <img src="../images/first3.png" width="40%">
 <img src="../images/first_detection.png" width="40%">
 
-3. Mercurial decides to retrieve the Quantum Gates present on <span style="color: #facd4d"> PHI PLUS </span>. Mercurial rolls a 6, much higher than the detection rate of 1, and successfully retrieves the component.
+3. Mercurial postanawia odzyskać komponent Quantum Gates obecny na <span style="color: #facd4d"> PHI PLUS </span>. Mercurial wyrzuca 6, znacznie więcej niż wskaźnik detekcji równy 1, i skutecznie odzyskuje komponent.
 
 <img src="../images/first4.png" width="40%">
 
-4. Rubicon decides the next destination is <span style="color: #facd4d"> OMEGA TWO </span> and plays an H to navigate both ships there.
+4. Rubicon decyduje, że następnym celem podróży jest <span style="color: #facd4d"> OMEGA TWO </span> i zagrywa H, aby przesunąć tam oba statki.
 
 <img src="../images/first5.png" width="40%">
 
-Rubicon rolls the Entanglion die and it comes up as 1. The ships have been detected, so they must retreat! Rubicon rolls a 1 on the Centarious die, so both ships jump back to <span style="color: purple"> ONE </span>. Since they were detected, the detection rate is increased by 1 and a quantum event is triggered. Rubicon draws a quantum event card – Heisenberg – which can be used on a future turn.
+Rubicon rzuca kością Entanglion i wypada jako 1. Statki zostały wykryte, więc muszą się wycofać! Rubicon rzuca 1 na kości Centarious, więc oba statki wskakują z powrotem do <span style="color: purple"> ONE </span>. Od momentu ich wykrycia wskaźnik detekcji zwiększa się o 1 i wyzwalane jest zdarzenie kwantowe. Rubicon dobiera kartę zdarzenia kwantowego – Heisenberg – którą można użyć w przyszłych turach.
 
 <img src="../images/first5.png" width="40%">
 <img src="../images/first_detection2.png" width="40%">
 
-Play continues until either Rubicon and Mercurial have collected all of the quantum components in Entanglion, or until the detection rate reaches the final level.
+Gra jest kontynuowana, dopóki Rubicon i Mercurial nie zgromadzą wszystkich komponentów kwantowych w Entanglion lub dopóki wskaźnik detekcji nie osiągnie ostatecznego poziomu.
 
-# How Entanglion relates to quantum computing
-Entanglion models several aspects of a 2-qubit quantum computer. Specifically, the two spaceships represent two qubits, and each planet in each galaxy represents a different state of those qubits. Engine cards represent the quantum gates used to transition the qubits into different states.
+# Jak Entanglion nawiązuje do obliczeń kwantowych
+Entanglion modeluje kilka aspektów 2-kubitowego komputera kwantowego. W szczególności, dwa statki kosmiczne reprezentują dwa kubity, a każda planeta w każdej galaktyce reprezentuje inny stan tych kubitów. Karty silnika reprezentują bramki kwantowe używane do przekształcania kubitów w różne stany kwantowe.
 
 The Centarious galaxy represents the classical states of 0 and 1, written in "ket notation" as ⎢0 〉(<span style="color: purple"> ZERO </span>) and ⎢1 〉(<span style="color: purple"> ONE </span>). The Superious galaxy represents states of quantum superposition, known as ⎢+ 〉(<span style="color: green"> PLUS </span>) and ⎢- 〉(<span style="color: green"> MINUS </span>). The Entanglion galaxy represents states of entanglement. Four of the entangled states, ⎢Ψ+ 〉(<span style="color: #facd4d"> PSI PLUS </span>), ⎢Ψ- 〉(<span style="color: #facd4d"> PSI MINUS </span>), ⎢Φ+ 〉(<span style="color: #facd4d"> PHI PLUS </span>), and ⎢Φ- 〉(<span style="color: #facd4d"> PHI MINUS </span>), are known as the [Bell states](https://en.wikipedia.org/wiki/Bell_state). The other entangled states, which we have labeled ⎢ω0 〉(<span style="color: #facd4d"> OMEGA ZERO </span>) through ⎢ω3 〉(<span style="color: #facd4d"> OMEGA THREE </span>), are additional states that are achievable through the combined operation of the X, H, SWAP, and CNOT gates.
 
-The requirement that both ships must move together within Entanglion is a result of the fact that for entangled states, the state of the system is more complex than a simple combination of the states of the individual qubits. This is one of the main ways in which quantum mechanics differs from classical physics.
 
-## Engine cards
-The engine cards represent _some_ of the different kinds of quantum logic gates used by quantum computers.
+Galaktyka Centarious reprezentuje klasyczne stany 0 i 1, zapisane w "notacji ket" jako ⎢0 〉(<span style="color: purple"> ZERO </span>) i ⎢1 〉(<span style="color : purple"> ONE </span>). Galaktyka Superious reprezentuje stany kwantowej superpozycji, znane jako ⎢+ 〉(<span style="color: green"> PLUS </span>) i ⎢- 〉(<span style="color: green"> MINUS </span >). Galaktyka Entanglion reprezentuje stany splątania. Cztery stany splątane, ⎢Ψ+ 〉(<span style="color: #facd4d"> PSI PLUS </span>), ⎢Ψ- 〉(<span style="color: #facd4d"> PSI MINUS </span>), ⎢Φ+ 〉(<span style="color: #facd4d"> PHI PLUS </span>) i ⎢Φ- (<span style="color: #facd4d"> PHI MINUS </span >) są znane jako [stany Bella](https://en.wikipedia.org/wiki/Bell_state). Inne stany splątane, które oznaczyliśmy od ⎢ω0 〉(<span style="color: #facd4d"> OMEGA ZERO </span>) do ⎢ω3 〉(<span style="color: #facd4d"> OMEGA THREE </span>) to dodatkowe stany, które można osiągnąć za pomocą złożenia bramek X, H, SWAP oraz CNOT.
+
+Wymóg, aby oba statki poruszały się razem w Entanglionie, wynika z faktu, że w przypadku stanów splątanych stan systemu jest bardziej złożony niż prosta kombinacja stanów poszczególnych kubitów. Jest to jeden z głównych sposobów, w jaki mechanika kwantowa różni się od fizyki klasycznej.
+
+## Karty silnika
+Karty silnika reprezentują _niektóre_ z różnych rodzajów bramek kwantowych używanych przez komputery kwantowe.
 
 <img src="../images/engine_cards.png" width="60%">
 
-- **X**. The X gate flips the value of a qubit. It is also known as the bit flip gate.
-- **SWAP**. SWAP exchanges the values of the two qubits.
-- **CNOT**. CNOT stands for "Controlled Not." It needs two qubits to work: one qubit is designated the "target," which gets flipped if the other qubit, known as the "control," has a value of 1.
-- **H**. The Hadamard gate is used to create or collapse superposition. It is one of the most important gates in quantum computing.
+- **X**. Bramka X odwraca wartość kubitu. Jest również znana jako bramka odwracania bitu.
+- **SWAP**. SWAP wymienia wartości dwóch kubitów.
+- **CNOT**. CNOT to skrót od "Controlled Not" [sterowane zaprzeczenie; przyp. tłum.]. Do działania potrzebne są dwa kubity: jeden kubit znawy "docelowym", który jest on odwracany, jeśli drugi kubit, nazywany "sterującym", ma wartość 1.
+- **H**. Brama Hadamarda służy do tworzenia lub rozbicia superpozycji. Jest to jedna z najważniejszych bramek w obliczeniach kwantowych.
 
-## Quantum components
-The quantum components in Entanglion represent different physical or logical components needed to construct an actual quantum computer.
+## Komponenty kwantowe
+Komponenty kwantowe w Entanglion reprezentują różne komponenty fizyczne lub logiczne potrzebne do zbudowania rzeczywistego komputera kwantowego.
 
-- **Physical Qubits**. Much like how classical computer processors are implemented via hardware transistors, quantum processors are implemented via hardware qubits. There are a [number of different ways](https://en.wikipedia.org/wiki/Qubit#Physical_representation) scientists are creating physical qubits, including Josephson junctions, ion traps, and quantum dots.
-- **Qubit Interconnect**. Qubits must be physically connected to each other in order to become entangled with one another.
-- **Dilution Refrigerator**. Physical qubits must be kept at very cold temperatures – colder even than outer space – in order to maintain their coherence. Dilution refrigerators are able to cool physical qubits to temperatures as low as 2 millikelvin.
-- **Quantum Gates**. In classical computing, logical gates such as AND, OR, NOT, and NAND are combined to create higher-order computation. In quantum computing, quantum gates such as X, CNOT, SWAP, and H are used for computation.
-- **Quantum Programming**. In order to improve the productivity of quantum programmers, higher-level quantum programming languages are needed. For example, [IBM OpenQASM](https://github.com/IBM/qiskit-openqasm) allows you to program a quantum computer with an assembly-style language, and [IBM QISKit](https://qiskit.org) allows you to program a quantum computer in Python.
-- **Quantum Error Correction**. Physical qubits experience noise that may cause errors to occur during measurement. [Quantum error correction](https://en.wikipedia.org/wiki/Quantum_error_correction) is used to correct for these errors. The key insight of quantum error correction is to use multiple physical qubits to simulate one logical qubit.
-- **Control Infrastructure**. Quantum computers need some way to measure the internal state of a qubit. Control infrastructure uses microwave radiation to read the state of a qubit and digitize it into a binary state (0 or 1).
-- **Magnetic Shielding**. Qubits are extremely sensitive to stray magnetic fields. Magnetic shielding ensures qubits are protected from external sources of magnetism.
+- **Physical Qubits [fizyczne kubity]**. Podobnie jak klasyczne procesory komputerowe są implementowane za pomocą tranzystorów sprzętowych, procesory kwantowe są implementowane za pomocą kubitów sprzętowych. Istnieje [wiele sposobów](https://en.wikipedia.org/wiki/Qubit#Physical_implementations) w jaki naukowcy tworzą kubity fizyczne, w tym złącza Josephsona, pułapki jonowe i kropki kwantowe.
+- **Qubit Interconnect [połączenie kubitów]**. Kubity muszą być ze sobą fizycznie połączone, aby mogły się ze sobą splątać.
+- **Dilution Refrigerator [[chłodziarka rozcieńczająca](https://en.wikipedia.org/wiki/Dilution_refrigerator)]**. Fizyczne kubity muszą być przechowywane w bardzo niskich temperaturach – zimniejszych nawet niż przestrzeń kosmiczna – w celu zachowania ich koherencji (spójności). Chłodziarki rozcieńczające są w stanie schłodzić fizyczne kubity do temperatur tak niskich, jak 2 milikelwiny.
+- **Quantum Gates [[bramki kwantowe](https://pl.wikipedia.org/wiki/Bramka_kwantowa)]**. W klasycznych obliczeniach bramki logiczne, takie jak AND, OR, NOT i NAND, są łączone w celu utworzenia obliczeń wyższego rzędu. W obliczeniach kwantowych do obliczeń wykorzystuje się bramki kwantowe, takie jak X, CNOT, SWAP i H.
+- **Quantum Programming [[programowanie kwantowe](https://pl.wikipedia.org/wiki/Komputer_kwantowy)]**. Aby zwiększyć produktywność programistów kwantowych, potrzebne są języki programowania kwantowego wyższego poziomu. Na przykład [IBM OpenQASM](https://github.com/IBM/qiskit-openqasm) pozwala zaprogramować komputer kwantowy w języku asemblera, a [IBM QISKit](https://qiskit.org) pozwala na programowanie komputera kwantowego w Pythonie.
+- **Quantum Error Correction [[Korekcja błędu kwantowego](https://en.wikipedia.org/wiki/Quantum_error_correction)]**. Fizyczne kubity doświadczają szumu, który może powodować błędy podczas pomiaru. Korekcja błędu kwantowego służy do poprawiania tych błędów. Kluczowym sposobem w korekcji błędów kwantowych jest użycie wielu fizycznych kubitów do symulacji jednego logicznego kubitu.
+- **Control Infrastructure [Infrastruktura sterująca]**. Komputery kwantowe potrzebują jakiegoś sposobu na pomiar wewnętrznego stanu kubitu. Infrastruktura sterująca wykorzystuje promieniowanie mikrofalowe do odczytywania stanu kubitu i przekształcania go w stan binarny (0 lub 1).
+- **Magnetic Shielding [[Ekranowanie magnetyczne](https://pl.wikipedia.org/wiki/Ekran_magnetyczny)]**. Kubity są niezwykle wrażliwe na zabłąkane pola magnetyczne. Ekranowanie magnetyczne zapewnia ochronę kubitów przed zewnętrznymi źródłami magnetyzmu.
 
 ## Event cards
 Event cards add fun, random elements to the game. Some event cards are named after people who made significant contributions to the field of quantum physics and quantum information science, such as Werner Heisenberg and Erwin Schrödinger. One event card is extra special, named after IBM researcher Charles Bennett, one of the founders of quantum information theory and a key contributor to the discovery of the quantum teleportation effect. Other event cards are named after quantum effects such as quantum tunneling, bit flip errors, wave function collapsing, and Einstein’s "spooky action at a distance." We encourage avid players to research these people and topics to learn more about the physics of quantum information!
