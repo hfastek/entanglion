@@ -251,16 +251,19 @@ Komponenty kwantowe w Entanglion reprezentują różne komponenty fizyczne lub l
 - **Control Infrastructure [Infrastruktura sterująca]**. Komputery kwantowe potrzebują jakiegoś sposobu na pomiar wewnętrznego stanu kubitu. Infrastruktura sterująca wykorzystuje promieniowanie mikrofalowe do odczytywania stanu kubitu i przekształcania go w stan binarny (0 lub 1).
 - **Magnetic Shielding [[Ekranowanie magnetyczne](https://pl.wikipedia.org/wiki/Ekran_magnetyczny)]**. Kubity są niezwykle wrażliwe na zabłąkane pola magnetyczne. Ekranowanie magnetyczne zapewnia ochronę kubitów przed zewnętrznymi źródłami magnetyzmu.
 
-## Event cards
-Event cards add fun, random elements to the game. Some event cards are named after people who made significant contributions to the field of quantum physics and quantum information science, such as Werner Heisenberg and Erwin Schrödinger. One event card is extra special, named after IBM researcher Charles Bennett, one of the founders of quantum information theory and a key contributor to the discovery of the quantum teleportation effect. Other event cards are named after quantum effects such as quantum tunneling, bit flip errors, wave function collapsing, and Einstein’s "spooky action at a distance." We encourage avid players to research these people and topics to learn more about the physics of quantum information!
+## Karty zdarzeń
+Karty zdarzeń dodają do gry zabawne, losowe elementy. Niektóre karty zdarzeń noszą nazwy osób, które wniosły znaczący wkład w dziedzinę fizyki kwantowej i informatyki kwantowej, takich jak Werner Heisenberg i Erwin Schrödinger. Jedna karta zdarzenia jest wyjątkowa, nazwana na cześć badacza IBM Charlesa Bennetta, jednego z twórców teorii informacji kwantowej i kluczowego wkładu w odkrycie efektu teleportacji kwantowej. Inne karty zdarzeń noszą nazwy pochodzące od efektów kwantowych, takich jak zjawisko tunelowania kwantowego, błąd odwracania bitu, załamanie funkcji falowej i "upiorne działanie na odległość" Einsteina. Zachęcamy zapalonych graczy do samodzielnego wyszukania informacji o tych osobach i tematach, aby dowiedzieć się więcej o fizyce która stanowi podstawy dla informatyki kwantowej!
+
 
 <img src="../images/events.png" width="100%">
 
-## Defenses, measurement, and error
+## Obrony, pomiary i błędy
 The process of encountering orbital defenses when navigating the Entanglion galaxy is akin to performing a classical measurement (also known as a Z measurement) on the quantum state. Additionally, the act of retrieving a quantum component is akin to performing an entanglement measurement, also known as a [Bell test](https://en.wikipedia.org/wiki/Bell_test_experiments). Sometimes, noise in the quantum system prevents us from seeing a reliable measurement. We call this a readout error. The effects of noise and errors are modeled via the detection rate.
 
-## Additional resources
-We recommend a few resources for learning more about quantum computing.
+Proces napotykania na orbitalną obronę podczas nawigowania po galaktyce Entanglion jest podobny do wykonywania klasycznego pomiaru (znanego również jako pomiar Z) stanu kwantowego. Ponadto czynność pobierania składnika kwantowego jest podobna do wykonywania pomiaru splątania, znanego również jako [test Bella](https://en.wikipedia.org/wiki/Bell_test_experiments). Czasami szum w układzie kwantowym uniemożliwia nam zobaczenie wiarygodnego pomiaru. Nazywamy to błędem odczytu. Skutki szumu i błędów są modelowane za pomocą wskaźnika detekcji.
+
+## Dodatkowe zasoby
+W celu dowiedzenia się wiecej o obliczeniach kwantowych, polecamy następujące zasoby.
 
 - [IBM Q Experience Beginner's Guide](http://ibm.biz/qx-guide) by IBM Research
 - [Q is for Quantum](http://a.co/iJbiNS8) by T. Rudolph
